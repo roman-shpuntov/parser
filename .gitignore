@@ -2,3 +2,5 @@ json-parser/
 json-parser.install/
 parser
 *.o
+data.dict
+data.tlv

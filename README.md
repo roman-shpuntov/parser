@@ -15,3 +15,5 @@ and have a fun:
 ```
 ./run.sh
 ```
+
+The results are in data.dict and data.tlv files
